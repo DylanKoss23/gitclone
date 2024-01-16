@@ -28,5 +28,6 @@ const person = {
  }
  
  console.log(compareNumbers(numbersArray[0], numbersArray[1]));
+ console.log(compareNumbers(numbersArray[0], numbersArray[3]));
  
  console.log(getFullName(person));
